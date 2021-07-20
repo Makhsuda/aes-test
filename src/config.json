@@ -10,14 +10,15 @@
       "title": "Silicon Valley Energy Ecosystem",
       "shortName": "Silicon Valley",
       "center": [
-        -121,
-        36.5
+        -121.9247,
+        37.38
       ],
       "flyTo": [
-        -122.21,
-        37.65
+        -121.9247,
+        37.38
       ],
       "taxonomy": "sv",
+      "flyToZoom": 14,
       "displayStanfordLogo": true
     },
     "chicago": {
@@ -149,6 +150,34 @@
         56.3
       ],
       "flyToZoom": 6.5,
+      "taxonomy": "denmark"
+    },
+    "philippines": {
+      "title": "Philippines Energy Ecosystem",
+      "shortName": "Philippines",
+      "center": [
+        121.0612,
+        14.585881
+      ],
+      "flyTo": [
+        121.0612,
+        14.585881
+      ],
+      "flyToZoom": 14,
+      "taxonomy": "denmark"
+    },
+    "philippines_test": {
+      "title": "Philippines Test Energy Ecosystem",
+      "shortName": "Philippines Test",
+      "center": [
+        121.0612,
+        14.585881
+      ],
+      "flyTo": [
+        121.0612,
+        14.585881
+      ],
+      "flyToZoom": 14,
       "taxonomy": "denmark"
     }
   }
