@@ -148,7 +148,9 @@
         121,
         14.58
       ],
-      "taxonomy": "denmark"
+      "flyToZoom": 5,
+      "taxonomy": "denmark",
+      "displayPhilippinesLogo": true
     },
     "denmark": {
       "title": "Denmark Energy Ecosystem",
